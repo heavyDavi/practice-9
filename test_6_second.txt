@@ -2,4 +2,9 @@
 
 
 
+<<<<<<< HEAD
 a chto by sdelal ty
+=======
+
+privet
+>>>>>>> ab18eadb955684feb19992df282f035c385829af
